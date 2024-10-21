@@ -7,7 +7,7 @@ MedBuddy is a website that connects doctors, patients, and ambulance providers. 
 
 ## Visit Online
 
-This website is hosted at [https://medbuddy.onrender.com/](https://medbuddy.onrender.com/)
+This website is hosted at [https://medichat.onrender.com/](https://medichat.onrender.com/)
 
 ## Getting Started
 
