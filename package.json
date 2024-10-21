@@ -9,7 +9,7 @@
     "lint": "eslint ./",
     "test": "jest"
   },
-  "author": "Aman Dwivedi",
+  "author": "Tejasv Singh",
   "license": "ISC",
   "jest": {
     "testEnvironment": "node"
