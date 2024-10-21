@@ -9,66 +9,6 @@ MediChat is a website that connects doctors, patients, and ambulance providers. 
 
 This website is hosted at [https://medichat.onrender.com/](https://medichat.onrender.com/)
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-Your machine should have Npm(or Yarn), Node.js, and MongoDB installed to use it locally.
-
-## Setup and Installation
-
-### Setting up the repository locally
-
-1. First fork the repo :fork_and_knife: to your account.  
-   Go to the forked repo and clone it :busts_in_silhouette: to your local machine:
-
-```sh
-git clone https://github.com/Your_Username/MediChat.git
-```
-
-This will make a copy of the code to your local machine.
-
-2. Now move to the `MediChat` directory.
-
-```sh
-cd MediChat
-```
-
-3. Now check the remote of your local code by:
-
-```sh
-git remote -v
-```
-
-The response should look like:
-
-```sh
-origin	https://github.com/Your_Username/MediChat.git (fetch)
-origin	https://github.com/Your_Username/MediChat.git (push)
-```
-
-To add upstream to remote, run:
-
-```sh
-git remote add upstream https://github.com/Aman-Codes/MediChat.git
-```
-
-Again run `git remote -v`, the response should look like:
-
-```sh
-origin	https://github.com/Your_Username/MediChat.git (fetch)
-origin	https://github.com/Your_Username/MediChat.git (push)
-upstream	https://github.com/Aman-Codes/MediChat (fetch)
-upstream	https://github.com/Aman-Codes/MediChat (push)
-```
-
-4. Once the remote is set, install all the necessary dependencies by the following command:
-
-```sh
-npm install
-```
 ### Run locally
 
 Run the below command to start the server:
